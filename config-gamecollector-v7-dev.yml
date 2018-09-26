@@ -1,0 +1,5 @@
+appName: GameCollector Backend
+description: Backend del GameCollector (loaded from GIT)
+logLevel: debug
+environment: dev
+
